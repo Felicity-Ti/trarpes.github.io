@@ -1,0 +1,61 @@
+/* 成员 */
+.member_title{font-size: 150%;background-color: brown;}
+.teacher_box{position:absolute;margin-top: 50px;}
+.teacher_box h1{background-color: brown;}
+.teacher_zwt{overflow: hidden;background-color: aqua;margin-top: 30px;width: 1200px;}
+.teacher_zwt_1{margin-left: 10px;margin-top: 10px;}
+.teacher_zwt_2{float: left;width: 900px;margin-top: 10px;}
+.teacher_zwt_2 p{line-height: 150%;padding: 10px;}
+.teacher_zwt_3{width: 175px;height: auto;float: right;margin: 20px;}
+
+.stu_box{position:absolute;margin-top: 500px;}
+.stu_box h1{background-color: brown;}
+.stu_cdh{overflow: hidden;background-color: aqua;margin-top: 30px;width: 1200px;}
+.stu_cdh_1{margin-left: 10px;margin-top: 10px;}
+.stu_cdh_2{float: left;width: 900px;margin-top: 0px;}
+.stu_cdh_2 p{line-height: 150%;padding: 10px;}
+.stu_cdh_3{width: 175px;height: auto;float: right;margin: 20px;}
+
+
+
+/* 成果 */
+.main_achievement{overflow: hidden;height: 3000px;margin-top: 20px;margin-left: 25px;margin-right: 50px;}
+.main_achievement{position: relative;}
+.achievement_title{background-color: brown;font-size: 150%;}
+.achievement_2023{overflow: hidden;margin-right: auto;margin-top: 10px;}
+.achievement_2023 h1{text-align: center;vertical-align: middle;background-color: brown;}
+.achievement_1{background-color: aqua;margin-top: 30px;}
+.achievement_1 img{height: 200px;width: auto;}
+.achievement_2022{overflow: hidden;margin-right: auto;margin-top: 10px;}
+.achievement_2022 h1{text-align: center;vertical-align: middle;background-color: brown;}
+.achievement_2{background-color: aqua;margin-top: 30px;}
+.achievement_2 img{height: 200px;width: auto;}
+.achievement_3{background-color: aqua;margin-top: 30px;}
+.achievement_3 img{height: 200px;width: auto;}
+.achievement_4{background-color: aqua;margin-top: 30px;}
+.achievement_4 img{height: 200px;width: auto;}
+.achievement_5{background-color: aqua;margin-top: 30px;}
+.achievement_5 img{height: 200px;width: auto;}
+.achievement_2021{overflow: hidden;margin-right: auto;margin-top: 10px;}
+.achievement_2021 h1{text-align: center;vertical-align: middle;background-color: brown;}
+.achievement_6{background-color: aqua;margin-top: 30px;}
+.achievement_6 img{height: 200px;width: auto;}
+
+
+
+/* 研究方向 */
+.main_dir{overflow: hidden;height: 2000px;margin-top: 20px;margin-left: 25px;margin-right: 50px;position: relative;}
+.main_dir h1{background-color: brown;font-size: 300%;margin-top: 20px;}
+.tec h1{font-size: 200%;}
+.tec h2{padding-top: 30px;padding-bottom: 10px;}
+.tec p{line-height: 150%;}
+
+
+/* 联系方式 */
+.main_connection{overflow: hidden;height: 3000px;margin-top: 20px;margin-left: 25px;margin-right: 50px;position: relative;}
+.welc{background-color: brown;margin-bottom: 20px;text-align: center;font-size: 300%;}
+.recruit_str h1{background-color: brown;margin: 30px auto;}
+
+
+
+

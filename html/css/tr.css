@@ -1,0 +1,117 @@
+/* 通配符，重置浏览器样式 */
+*{margin: 0;padding: 0;}
+body{font-family: "microsoft yahei";max-width: 2500px;margin: 0 auto;background: #f3f3f3;border: 1px solid yellow;}
+img{max-width: 100%;}
+
+/* logo */
+.logo{overflow: hidden;margin-right: 0px;background-color: #cf4a4a;}
+.logo_pic{float: left;}
+.logo_title{float: left;text-align: center;margin-left: 450px;}
+.jj_title{margin: 15px;}
+.logo_sear{float: right;}
+.logo_sear{display: flex;margin-top: 18px;margin-right: 50px;margin-top: 50px;}
+.language:hover{color: red;}
+.language:visited{color: grey;}
+.logo_sear img{vertical-align: bottom;margin-right: 3px;width: 25px;}
+
+
+
+
+
+.side{width: 200px;}
+.nav{
+    width: 200px;
+    height: 600px;
+    background-color: #cf4a4a;
+    font-size: 25px;
+    display: inline-block;
+    /* 文本对齐方式：居中 */
+    text-align: center;
+}
+
+.nav .wrap{
+    width: 200px;
+    color: #443623;
+    margin: auto auto;
+    line-height: 3;
+}
+.side{float: left;margin-top: 20px;}
+.nav1:hover{color:yellow;}
+.nav2:hover{color:yellow;}
+.nav3:hover{color:yellow;}
+.nav4:hover{color:yellow;}
+.nav5:hover{color:yellow;}
+.nav6:hover{color:yellow;}
+.wrap ul li{margin: 20px 0;}
+.addr{text-align: center;background-color: grey;}
+
+
+.outer{height: 725px;overflow-y: scroll;}
+/* 界面内容 */
+.main{overflow: hidden;height: 2000px;margin-top: 20px;margin-left: 25px;margin-right: 50px;}
+
+.intr{float: left;overflow: hidden;}
+/* .main{position: relative;left: 200px;top: -600px;} */
+.intr_para{float: left;margin-right: 100px;overflow: hidden;width: 1150px;line-height: 30px;margin-top: 15px;}
+.intr_para p{padding: 10px;}
+.intr_pic img{width: 100%;height: 300px;}
+.zhang{text-align: center;}
+.intr_left{float: left;}
+.intr_pic{float: right;margin-top: 70px;}
+.intr_pic h3{background-color: #cf4a4a;}
+
+
+.main{position: relative;}
+.footer{margin-right: 0;}
+.link_bot{background-color: grey;height: 50px;width: 1800px;position: absolute;bottom: 0;}
+.link_bot a:link{color: green;}
+.link_bot a:hover{color: red;font-size: 120%;}
+.link_bot a:visited{color: blue;}
+
+
+
+
+
+.copyr{text-align: center;border-style: dotted;}
+
+
+
+
+
+
+
+
+
+
+#form{
+    text-align: center;
+}
+
+#form .text {
+    display: inline-block;
+    border: 0;
+    width: 260px;
+    height: 35px;
+    font-size: 14px;
+    outline: none;
+    border: 2px solid #01af63;
+}
+
+#form .search {
+    
+    width: 90px;
+    height: 38px;
+    border: 2px solid #01af63;
+    outline: none;
+    cursor: pointer;
+    /*   cursor: pointer;   鼠标悬停或点击时button时鼠标变成其他图标  */
+    text-align: center;
+    background-color: #01af63;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
